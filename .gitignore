@@ -1,0 +1,8 @@
+node_modules/
+dist/
+release/
+data/
+vendor/
+.env
+test/smoke.db*
+*.log
