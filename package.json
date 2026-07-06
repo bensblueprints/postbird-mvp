@@ -59,6 +59,10 @@
     },
     "directories": {
       "output": "release"
-    }
+    },
+    "asarUnpack": [
+      "vendor/**",
+      "node_modules/better-sqlite3/**"
+    ]
   }
 }
