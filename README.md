@@ -14,7 +14,7 @@ Pay **once**. No monthly bill that scales with your list. No vendor holding your
 
 Want the packaged installer with zero terminal time? Grab the one-time paid version:
 
-**→ [https://whop.com/onetime-suite](https://whop.com/onetime-suite)**
+**→ [https://whop.com/benjisaiempire/postbird](https://whop.com/benjisaiempire/postbird)**
 
 Same code, packaged and ready. Buying it also funds development of this open-source version.
 
