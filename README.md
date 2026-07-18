@@ -1,5 +1,9 @@
 # 🕊️ Postbird — Self-Hosted Email Campaigns
 
+## Demo
+
+VIDEO-PLACEHOLDER
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Own your list. Own your sender. Stop renting your audience back at per-contact prices.**
